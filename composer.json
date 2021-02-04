@@ -1,0 +1,9 @@
+{
+	"name": "zhangfangsong/hello-world",
+	"require": {
+		"monolog/monolog": "2.0.0-beta1"
+	},
+	"autoload": {
+        "psr-4": {"App\\": "App/"}
+    }
+}
